@@ -14,30 +14,31 @@ develop a data analysis over a supply chain dataset.
 
 This project is divided in five tasks:
 
-Task 1. Initial Exploration
-    * task1_initial_exploration.ipynb
+- Task 1. Initial Exploration
+  * task1_initial_exploration.ipynb
 
-Task 2. Univariate & Multivariate Analysis
+- Task 2. Univariate & Multivariate Analysis  
     Due to the extent of the dataset this task will divided in subgroups of analysis. This subgroups are topics
-    with common variables that focus on different elements of the supply chain. The topics are:
-        a) Product
-        * product\task2_product.ipynb
-        b) Customer
-        * customer\task2_customer.ipynb
-        c) Stores
-        * stores\task2_stores.ipynb
-        d) Shipping
-        * shipping\task2_shipping.ipynb
-        e) Orders
-        * orders\task2_orders.ipynb
+    with common variables that focus on different elements of the supply chain. The topics are:  
+     * Product  
+       * product\task2_product.ipynb  
+     * Customer  
+       * customer\task2_customer.ipynb  
+     * Stores  
+       * stores\task2_stores.ipynb  
+     * Shipping  
+       * shipping\task2_shipping.ipynb  
+     * Orders  
+       * orders\task2_orders.ipynb  
 
-Task 3. Duplicates and missing values 
+
+- Task 3. Duplicates and missing values 
     * task3_dup_missval.ipynb
 
-Task 4. Correlation
+- Task 4. Correlation
     * task4_correlation.ipynb
 
-Task 5. Quality of the dataset
+- Task 5. Quality of the dataset
     * task5_dataset_quality.ipynb
 
 
