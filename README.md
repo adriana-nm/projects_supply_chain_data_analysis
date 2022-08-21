@@ -59,12 +59,18 @@ installed. To proceed with this option just click on the ```.ipynb``` file you w
       customer\task2_customer.ipynb
       stores\task2_stores.ipynb
       shipping\task2_shipping.ipynb
-      orders\task2_orders.ipynb
+      orders\task2_orders.ipynb   (*Warning below*)
       task3_dup_missval.ipynb
       task4_correlation.ipynb
       task5_validation_dataset.ipynb
       ```
-  
+
+```Warning```: Plotly interactive maps do not seem to render on GitHub. To see this maps
+open the file ```projects_supply_chain_data_analysis/orders/task2_orders.ipynb``` copy the url and 
+paste it in the following page: [nbviewer.org](nbviewer.org). This will open the Jupyter Notebook 
+file with the interactive maps. 
+
+
 ## Installation and configuration
 To run the scripts locally you will need to have installed:
 

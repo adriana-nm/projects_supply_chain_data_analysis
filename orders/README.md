@@ -3,6 +3,11 @@
 In this notebook you'll find an univariate and multivariate analysis of the geographical location of the orders, the
 discounts, the order status, the payment and some financial information.
 
+```Warning```: Plotly interactive maps do not seem to render on GitHub. To see this maps
+open the file ```projects_supply_chain_data_analysis/orders/task2_orders.ipynb``` copy the url and 
+paste it in the following page: [nbviewer.org](nbviewer.org). This will open the Jupyter Notebook 
+file with the interactive maps. 
+
 Below you can find an index of the topics and questions explored in this notebook.
 
 ORDERS: Uni & Multivariate Analysis:
